@@ -1,83 +1,105 @@
-# Manoharan Ramakrishnan - Portfolio
+# 🌐 Manoharan Ramakrishnan – Personal Portfolio
 
-Welcome to my personal portfolio website! This portfolio showcases my skills, projects, certifications, and journey as a Computer Science & Design student passionate about software development and user-centered design.
+Welcome to my personal portfolio website. This portfolio showcases my skills, projects, certifications, and experience across **Digital Marketing, SEO, UI/UX Design, Web Development, and Blender 3D**.
 
-## About Me
+## 👨‍💻 About Me
 
-I'm **Manoharan Ramakrishnan**, a Final-Year B.E. Computer Science & Design student at Kongu Engineering College. I enjoy building modern web applications, creating intuitive user experiences, and exploring creative technologies.
+I'm a Computer Science and Design Engineering student passionate about combining **technology, creativity, and digital marketing** to build useful and engaging digital experiences.
 
-### Skills
+My interests include:
 
-* Java
-* Data Structures & Algorithms
-* HTML, CSS, JavaScript
-* React.js
-* MongoDB
-* MySQL
-* Git & GitHub
-* UI/UX Design
-* Figma
-* Blender
+- 📈 Digital Marketing
+- 🔍 SEO & Content Marketing
+- 📧 Email Marketing
+- 📱 Social Media Marketing
+- 🎨 UI/UX Design
+- 💻 Web Development
+- 🧊 Blender 3D Design
 
-## Features
+## 🛠️ Skills
 
-* Responsive Portfolio Design
-* About Me Section
-* Skills Showcase
-* Certifications Gallery
-* Project Highlights
-* Contact Information
-* Clean and Modern User Interface
+### Digital Marketing
+- SEO
+- Content Marketing
+- Social Media Marketing
+- Email Marketing
+- Audience Targeting
+- Campaign Analytics
 
-## Technologies Used
+### SEO Tools
+- Google Search Console
+- Google Keyword Planner
+- Ubersuggest
+- Screaming Frog
+- PageSpeed Insights
 
-* HTML5
-* CSS3
-* JavaScript
-* Git & GitHub
+### Design
+- Figma
+- Canva
+- Framer
+- Adobe
+- Blender 3D
 
-## Certifications
+### Programming & Web
+- HTML
+- CSS
+- JavaScript
+- Java
+- React
+- MySQL
+- MongoDB
 
-The portfolio includes certifications in:
+### Tools
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Mailchimp
+- Meta Ads Manager
+- Excel
 
-* Oracle Java SE 17
-* Oracle APEX
-* Internet of Things (IoT)
-* Design Thinking
-* Inplant Training Programs
-* Professional Development Courses
+## 🚀 Featured Projects
 
-## Project Structure
+### 📊 SEO Optimization Project
+Performed SEO analysis and optimization by researching keywords, analyzing on-page and technical SEO factors, and recommending improvements for website visibility.
 
-```text
-Portfolio/
-│
-├── index1.html
-├── picture/
-│   ├── Oracle_javaSE17.jpg
-│   ├── Oracle_Apex.jpg
-│   ├── IOT.jpg
-│   ├── Design.jpg
-│   ├── Inplant Training.jpg
-│   └── ...
-└── README.md
-```
+### 📧 Email Marketing Campaign
+Created an email marketing campaign focused on audience segmentation, compelling content, A/B testing, and campaign performance analysis.
 
-## Connect With Me
+### 📱 Social Media Marketing Campaign
+Developed a social media marketing campaign involving content planning, promotions, reels, posts, and audience engagement.
 
-* GitHub: https://github.com/Manoharanramar
-* LinkedIn: Add your LinkedIn profile link here
+### 🧊 3D Exam Hall Environment – Blender
+Designed a realistic 3D exam-hall environment using Blender, including desks, chairs, lighting, materials, and environmental elements.
 
-## Goals
+## 🎓 Education
 
-Currently focused on:
+**Kongu Engineering College**  
+B.E. Computer Science and Design Engineering  
+2023–2027
 
-* Full Stack Development
-* Java Backend Development
-* MERN Stack
-* UI/UX Design
-* Problem Solving & DSA
+## 📜 Certifications
+
+- AI-Powered Marketer Certification
+- Java Certification
+
+## 📺 YouTube
+
+I also create and share digital marketing-related content through my YouTube channel:
+
+**DigitalEdge**
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [Manoharan Ramakrishnan](https://www.linkedin.com/in/manoharanramar/)
+- 💻 GitHub: [Manoharanramar](https://github.com/Manoharanramar)
+- 🧑‍💻 LeetCode: [Manoharan_R](https://leetcode.com/Manoharan_R/)
+- 📺 YouTube: [DigitalEdge](https://www.youtube.com/@DigitalEdge-de)
+
+## 📌 Portfolio
+
+This repository contains the source code for my personal portfolio website.
 
 ---
 
-Thank you for visiting my portfolio!
+⭐ **If you like my portfolio, consider giving this repository a star!**
