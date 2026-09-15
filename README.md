@@ -37,17 +37,12 @@ My interests include:
 - Figma
 - Canva
 - Framer
-- Adobe
 - Blender 3D
 
 ### Programming & Web
 - HTML
 - CSS
-- JavaScript
 - Java
-- React
-- MySQL
-- MongoDB
 
 ### Tools
 - Git
